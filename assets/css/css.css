@@ -1,0 +1,171 @@
+body{
+    background-color:#888;
+}
+.header {
+    width: 960px;
+    height: 60px;
+    margin: 0 auto;
+    border-bottom: 3px #333 solid;
+    text-align: center;
+    background-color: ivory;
+}
+
+.logo{
+    float:left;
+    font-size:24px;
+    width: 200px;
+    height:11px;
+    margin-right: 350px;
+    background-color: teal;
+    color: ivory;
+    padding: 25px;
+
+}
+
+p{
+    font-size: 20px; 
+}
+
+h1 {
+    font-size: 45px;
+}
+
+.nav1{
+    float:left;
+    width:70px;
+    color: #777;
+    padding: 25px;
+
+}
+
+.nav2{
+    float:left;
+    width:70px;
+    color: #777;
+    padding: 25px;
+}
+
+.nav3{
+    float:left;
+    width:70px;
+    color: #777;
+    padding: 25px;
+}
+
+.footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    padding-top: 30px;
+    padding-bottom:10px;
+    text-align: center;
+    clear:both;
+    background-color:#555;
+    color: #999;
+    border-top: teal 4px solid;
+}
+
+#aboutme{
+    width: 560px;
+    float:left;
+    border:1px solid #111;
+    background-color: white;
+    }
+
+.clearhead{
+    clear:both;
+    width: 960px;
+    margin: 0 auto;
+    }
+
+#photo{
+    float:left;
+    border: #222222 2px solid;
+    margin: 4px;
+    margin-right: 15px;
+}
+
+p {
+    line-height:160%;
+
+}
+
+#contactform{
+    float:left;
+    width: 560px;  
+    border:1px solid #111;
+    background-color: white;
+}
+
+.icons{
+    float: left;
+    margin-left:25px;
+    width: 350px;
+    border:1px solid #111;
+    background-color: white;
+}
+.github{
+height: 50px;
+width: 50px;
+}
+
+.linkedin{
+    height: 50px;
+    width: 50px;
+}
+
+.stack{
+    height: 50px;
+    width: 50px;
+}
+
+#portfolio{
+    width: 560px;
+    float: left;
+    border:1px solid #111;
+    background-color: white;
+}
+
+#web{
+    width:250px;
+    float: left;
+}
+
+#games{
+    width:250px;
+}
+
+#phone{
+    width:250px;
+    float:left;
+}
+
+#watch{
+    width:250px;
+}
+
+#name{
+    width: 450px;
+    color:#555;
+    border: solid #111 1px;
+}
+
+#email{
+    width: 450px;
+    color:#555;
+    border: solid #111 1px;
+}
+
+#message{
+    width: 450px;
+    height:300px;
+    color:#555;
+    border: solid #111 1px;
+}
+
+#submit{
+    width:50px;
+    height:25px;
+    background-color:teal;
+    border: solid #111 1px;
+}
